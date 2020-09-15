@@ -19,13 +19,14 @@
 }
 
 .navbar__flex {
-  width: 80%;
-  margin: 0 auto;
+  width: 100%;
   text-align: center;
 }
 
 @media (min-width: 768px) {
   .navbar__flex {
+    width: 80%;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
