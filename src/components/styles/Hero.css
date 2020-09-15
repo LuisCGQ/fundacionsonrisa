@@ -1,0 +1,17 @@
+.hero {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+@media (min-width: 762px) {
+  .hero {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+.hero img {
+  align-self: center;
+  max-height: 400px;
+  padding-bottom: 30px;
+}
