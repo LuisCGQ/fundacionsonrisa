@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fundacionsonrisa/static/css/main.573b2705.chunk.css",
+    "main.css": "/fundacionsonrisa/static/css/main.85d8f97b.chunk.css",
     "main.js": "/fundacionsonrisa/static/js/main.a41cd738.chunk.js",
     "main.js.map": "/fundacionsonrisa/static/js/main.a41cd738.chunk.js.map",
     "runtime-main.js": "/fundacionsonrisa/static/js/runtime-main.897e446e.js",
@@ -9,10 +9,10 @@
     "static/js/2.2f51f49e.chunk.js": "/fundacionsonrisa/static/js/2.2f51f49e.chunk.js",
     "static/js/2.2f51f49e.chunk.js.map": "/fundacionsonrisa/static/js/2.2f51f49e.chunk.js.map",
     "index.html": "/fundacionsonrisa/index.html",
-    "precache-manifest.e4afdd6050389eb435b648af38529e3b.js": "/fundacionsonrisa/precache-manifest.e4afdd6050389eb435b648af38529e3b.js",
+    "precache-manifest.88609540d9779f7976074412796f2317.js": "/fundacionsonrisa/precache-manifest.88609540d9779f7976074412796f2317.js",
     "service-worker.js": "/fundacionsonrisa/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.573b2705.chunk.css.map": "/fundacionsonrisa/static/css/main.573b2705.chunk.css.map",
+    "static/css/main.85d8f97b.chunk.css.map": "/fundacionsonrisa/static/css/main.85d8f97b.chunk.css.map",
     "static/js/2.2f51f49e.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.2f51f49e.chunk.js.LICENSE.txt",
     "static/media/foto.png": "/fundacionsonrisa/static/media/foto.24415b95.png",
     "static/media/logo.png": "/fundacionsonrisa/static/media/logo.5003985f.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.897e446e.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.2f51f49e.chunk.js",
-    "static/css/main.573b2705.chunk.css",
+    "static/css/main.85d8f97b.chunk.css",
     "static/js/main.a41cd738.chunk.js"
   ]
 }

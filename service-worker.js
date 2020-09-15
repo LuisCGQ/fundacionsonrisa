@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fundacionsonrisa/precache-manifest.e4afdd6050389eb435b648af38529e3b.js"
+  "/fundacionsonrisa/precache-manifest.88609540d9779f7976074412796f2317.js"
 );
 
 self.addEventListener('message', (event) => {
