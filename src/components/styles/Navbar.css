@@ -73,12 +73,13 @@
 .navbar__menu-link {
   color: rgb(60, 60, 67);
   text-decoration: none;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .navbar__menu-link:hover {
   color: rgb(60, 60, 67);
   text-decoration: none;
+  font-weight: bold;
   -webkit-transform: scale(1.2);
 }
 

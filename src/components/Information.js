@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./styles/Information.css";
+
 class Information extends React.Component {
   render() {
     return (
