@@ -1,3 +1,27 @@
-span {
+.Quienes {
+  padding-bottom: 80px;
+}
+
+@media (min-width: 768px) {
+  .Quienes {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+
+  .Quienes p {
+    max-width: 50%;
+  }
+}
+
+.Quienes__img {
+  max-width: 500px;
+}
+.Quienes span {
   font-weight: bold;
+}
+
+.Quienes p {
+  color: #212529;
 }

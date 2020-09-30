@@ -3,7 +3,7 @@
   padding-bottom: 10px;
 }
 
-@media (min-width: 762px) {
+@media (min-width: 768px) {
   .hero {
     display: flex;
     justify-content: space-around;

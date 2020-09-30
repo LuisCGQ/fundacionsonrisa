@@ -1,0 +1,14 @@
+.Valores {
+  padding-top: 30px;
+}
+
+.Valores h2 {
+  margin-bottom: 30px;
+}
+.Valores h2 span {
+  color: rgb(236, 25, 56);
+}
+
+.Valores span {
+  font-weight: bold;
+}

@@ -8,6 +8,10 @@ import { Link } from "react-router-dom";
 
 class Navbar extends React.Component {
   render() {
+    function handleClick(id = 0) {
+      console.log(id);
+    }
+
     return (
       <div className="navbar">
         <div className="navbar__flex">
@@ -16,12 +20,34 @@ class Navbar extends React.Component {
             <span className="font-weight-bold">Fundación Sonrisa</span>
           </Link>
           <div className="navbar__menu">
-            <Link className="navbar__menu-link navbar__menu-active">
+            <Link
+              className="navbar__menu-link"
+              to="/"
+              onClick={() => handleClick(1)}
+            >
               INICIO
             </Link>
-            <Link className="navbar__menu-link">QUIÉNES SOMOS</Link>
-            <Link className="navbar__menu-link">PROGRAMAS</Link>
-            <Link className="navbar__menu-link">CONTACTO</Link>
+            <Link
+              className="navbar__menu-link"
+              to="/quienessomos"
+              onClick={() => handleClick(2)}
+            >
+              QUIÉNES SOMOS
+            </Link>
+            <Link
+              className="navbar__menu-link"
+              to="/programas"
+              onClick={() => handleClick(3)}
+            >
+              PROGRAMAS
+            </Link>
+            <Link
+              className="navbar__menu-link"
+              to="/contacto"
+              onClick={() => handleClick(4)}
+            >
+              CONTACTO
+            </Link>
           </div>
         </div>
       </div>

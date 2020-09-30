@@ -52,6 +52,10 @@
   text-decoration: none;
 }
 
+.navbar__brand span {
+  font-style: normal;
+}
+
 .navbar__brand-logo {
   height: 50px;
   padding-right: 10px;

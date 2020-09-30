@@ -1,0 +1,33 @@
+.Mision {
+  background-color: rgb(236, 25, 56);
+  color: white;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .flex {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  .Mision {
+    padding-left: 7%;
+    padding-right: 20px;
+  }
+
+  .Vision {
+    padding-left: 20px;
+    padding-right: 7%;
+  }
+}
+
+.Vision {
+  background-color: rgb(237, 236, 237);
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
