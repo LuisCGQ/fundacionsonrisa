@@ -16,8 +16,13 @@
 }
 
 .Quienes__img {
-  max-width: 500px;
   max-width: 100%;
+}
+
+@media (min-width: 768px) {
+  .Quienes__img {
+    max-width: 500px;
+  }
 }
 .Quienes span {
   font-weight: bold;
