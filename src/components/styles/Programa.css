@@ -1,0 +1,19 @@
+.Programa {
+  text-align: center;
+  margin: 30px;
+}
+
+@media (min-width: 768px) {
+  .Programa {
+    width: 50%;
+  }
+}
+
+.Programa__image {
+  max-width: 200px;
+  margin: 10px;
+}
+
+.Programa__title {
+  font-weight: bold;
+}
