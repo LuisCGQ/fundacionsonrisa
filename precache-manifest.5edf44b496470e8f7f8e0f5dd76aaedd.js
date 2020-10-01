@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1533b5a8d0f10efa46f0e4373c044666",
+    "revision": "f93fddef2b8a00a33619ed85d67c9190",
     "url": "/fundacionsonrisa/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "f7e40fd7bc08193ce0c4",
-    "url": "/fundacionsonrisa/static/css/main.d7341e60.chunk.css"
+    "revision": "dd80ea823d8fceb7ae9c",
+    "url": "/fundacionsonrisa/static/css/main.f8c2da8c.chunk.css"
   },
   {
     "revision": "1f7d6d20f70742e582a6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7e40fd7bc08193ce0c4",
-    "url": "/fundacionsonrisa/static/js/main.fdecb5d4.chunk.js"
+    "revision": "dd80ea823d8fceb7ae9c",
+    "url": "/fundacionsonrisa/static/js/main.a710db6a.chunk.js"
   },
   {
     "revision": "c8bfc7509fc5690d8c68",

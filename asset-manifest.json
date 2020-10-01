@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fundacionsonrisa/static/css/main.d7341e60.chunk.css",
-    "main.js": "/fundacionsonrisa/static/js/main.fdecb5d4.chunk.js",
-    "main.js.map": "/fundacionsonrisa/static/js/main.fdecb5d4.chunk.js.map",
+    "main.css": "/fundacionsonrisa/static/css/main.f8c2da8c.chunk.css",
+    "main.js": "/fundacionsonrisa/static/js/main.a710db6a.chunk.js",
+    "main.js.map": "/fundacionsonrisa/static/js/main.a710db6a.chunk.js.map",
     "runtime-main.js": "/fundacionsonrisa/static/js/runtime-main.897e446e.js",
     "runtime-main.js.map": "/fundacionsonrisa/static/js/runtime-main.897e446e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.ea11dad0.chunk.js": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js",
     "static/js/2.ea11dad0.chunk.js.map": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js.map",
     "index.html": "/fundacionsonrisa/index.html",
-    "precache-manifest.dd5e46a1c81c05866ce6c1ee13ebe4a2.js": "/fundacionsonrisa/precache-manifest.dd5e46a1c81c05866ce6c1ee13ebe4a2.js",
+    "precache-manifest.5edf44b496470e8f7f8e0f5dd76aaedd.js": "/fundacionsonrisa/precache-manifest.5edf44b496470e8f7f8e0f5dd76aaedd.js",
     "service-worker.js": "/fundacionsonrisa/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.d7341e60.chunk.css.map": "/fundacionsonrisa/static/css/main.d7341e60.chunk.css.map",
+    "static/css/main.f8c2da8c.chunk.css.map": "/fundacionsonrisa/static/css/main.f8c2da8c.chunk.css.map",
     "static/js/2.ea11dad0.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js.LICENSE.txt",
     "static/media/foto.png": "/fundacionsonrisa/static/media/foto.08723f26.png",
     "static/media/logo.png": "/fundacionsonrisa/static/media/logo.5003985f.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.897e446e.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.ea11dad0.chunk.js",
-    "static/css/main.d7341e60.chunk.css",
-    "static/js/main.fdecb5d4.chunk.js"
+    "static/css/main.f8c2da8c.chunk.css",
+    "static/js/main.a710db6a.chunk.js"
   ]
 }
