@@ -12,3 +12,9 @@
 .Valores span {
   font-weight: bold;
 }
+
+.Valores__valor::before {
+  content: ">  ";
+  color: rgb(236, 25, 56);
+  font-weight: bolder;
+}

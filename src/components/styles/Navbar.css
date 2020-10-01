@@ -77,7 +77,14 @@
 .navbar__menu-link {
   color: rgb(60, 60, 67);
   text-decoration: none;
+  transform: scale(0.8);
   transition: all 0.2s ease-in-out;
+}
+
+@media (min-width: 768px) {
+  .navbar__menu-link {
+    transform: scale(1);
+  }
 }
 
 .navbar__menu-link:hover {
