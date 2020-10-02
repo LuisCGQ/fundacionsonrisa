@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/fundacionsonrisa/static/css/main.f41f6441.chunk.css",
-    "main.js": "/fundacionsonrisa/static/js/main.a710db6a.chunk.js",
-    "main.js.map": "/fundacionsonrisa/static/js/main.a710db6a.chunk.js.map",
+    "main.css": "/fundacionsonrisa/static/css/main.d9e485f9.chunk.css",
+    "main.js": "/fundacionsonrisa/static/js/main.c7518f01.chunk.js",
+    "main.js.map": "/fundacionsonrisa/static/js/main.c7518f01.chunk.js.map",
     "runtime-main.js": "/fundacionsonrisa/static/js/runtime-main.897e446e.js",
     "runtime-main.js.map": "/fundacionsonrisa/static/js/runtime-main.897e446e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.ea11dad0.chunk.js": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js",
-    "static/js/2.ea11dad0.chunk.js.map": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js.map",
+    "static/js/2.1380c923.chunk.js": "/fundacionsonrisa/static/js/2.1380c923.chunk.js",
+    "static/js/2.1380c923.chunk.js.map": "/fundacionsonrisa/static/js/2.1380c923.chunk.js.map",
     "index.html": "/fundacionsonrisa/index.html",
-    "precache-manifest.35915b013daf6e256f6361b853fce9ac.js": "/fundacionsonrisa/precache-manifest.35915b013daf6e256f6361b853fce9ac.js",
+    "precache-manifest.6bd155e03acf9ed8638ec5116b1fae69.js": "/fundacionsonrisa/precache-manifest.6bd155e03acf9ed8638ec5116b1fae69.js",
     "service-worker.js": "/fundacionsonrisa/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.f41f6441.chunk.css.map": "/fundacionsonrisa/static/css/main.f41f6441.chunk.css.map",
-    "static/js/2.ea11dad0.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.ea11dad0.chunk.js.LICENSE.txt",
+    "static/css/main.d9e485f9.chunk.css.map": "/fundacionsonrisa/static/css/main.d9e485f9.chunk.css.map",
+    "static/js/2.1380c923.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.1380c923.chunk.js.LICENSE.txt",
     "static/media/foto.png": "/fundacionsonrisa/static/media/foto.08723f26.png",
     "static/media/logo.png": "/fundacionsonrisa/static/media/logo.5003985f.png",
+    "static/media/markermap.png": "/fundacionsonrisa/static/media/markermap.2fb6054e.png",
     "static/media/somos.png": "/fundacionsonrisa/static/media/somos.25742688.png",
     "static/media/taller1.png": "/fundacionsonrisa/static/media/taller1.a8c503ab.png",
     "static/media/taller2.png": "/fundacionsonrisa/static/media/taller2.caddaeb2.png",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.897e446e.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.ea11dad0.chunk.js",
-    "static/css/main.f41f6441.chunk.css",
-    "static/js/main.a710db6a.chunk.js"
+    "static/js/2.1380c923.chunk.js",
+    "static/css/main.d9e485f9.chunk.css",
+    "static/js/main.c7518f01.chunk.js"
   ]
 }
