@@ -22,28 +22,28 @@ class Navbar extends React.Component {
           <div className="navbar__menu">
             <Link
               className="navbar__menu-link"
-              to="/"
+              to="/fundacionsonrisa/"
               onClick={() => handleClick(1)}
             >
               INICIO
             </Link>
             <Link
               className="navbar__menu-link"
-              to="/quienessomos"
+              to="/fundacionsonrisa/quienessomos"
               onClick={() => handleClick(2)}
             >
               QUIÉNES SOMOS
             </Link>
             <Link
               className="navbar__menu-link"
-              to="/programas"
+              to="/fundacionsonrisa/programas"
               onClick={() => handleClick(3)}
             >
               PROGRAMAS
             </Link>
             <Link
               className="navbar__menu-link"
-              to="/contacto"
+              to="/fundacionsonrisa/contacto"
               onClick={() => handleClick(4)}
             >
               CONTACTO
