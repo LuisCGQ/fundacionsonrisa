@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/fundacionsonrisa/static/css/main.8f0590b2.chunk.css",
-    "main.js": "/fundacionsonrisa/static/js/main.6c430457.chunk.js",
-    "main.js.map": "/fundacionsonrisa/static/js/main.6c430457.chunk.js.map",
+    "main.js": "/fundacionsonrisa/static/js/main.bd4bca70.chunk.js",
+    "main.js.map": "/fundacionsonrisa/static/js/main.bd4bca70.chunk.js.map",
     "runtime-main.js": "/fundacionsonrisa/static/js/runtime-main.897e446e.js",
     "runtime-main.js.map": "/fundacionsonrisa/static/js/runtime-main.897e446e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.1380c923.chunk.js": "/fundacionsonrisa/static/js/2.1380c923.chunk.js",
-    "static/js/2.1380c923.chunk.js.map": "/fundacionsonrisa/static/js/2.1380c923.chunk.js.map",
+    "static/js/2.242571ed.chunk.js": "/fundacionsonrisa/static/js/2.242571ed.chunk.js",
+    "static/js/2.242571ed.chunk.js.map": "/fundacionsonrisa/static/js/2.242571ed.chunk.js.map",
     "index.html": "/fundacionsonrisa/index.html",
-    "precache-manifest.473ff0a5a22f5adbbe390a30930dbc6a.js": "/fundacionsonrisa/precache-manifest.473ff0a5a22f5adbbe390a30930dbc6a.js",
+    "precache-manifest.8978081453838d9627c16b6aa2ec2f51.js": "/fundacionsonrisa/precache-manifest.8978081453838d9627c16b6aa2ec2f51.js",
     "service-worker.js": "/fundacionsonrisa/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/fundacionsonrisa/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.8f0590b2.chunk.css.map": "/fundacionsonrisa/static/css/main.8f0590b2.chunk.css.map",
-    "static/js/2.1380c923.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.1380c923.chunk.js.LICENSE.txt",
+    "static/js/2.242571ed.chunk.js.LICENSE.txt": "/fundacionsonrisa/static/js/2.242571ed.chunk.js.LICENSE.txt",
     "static/media/foto.png": "/fundacionsonrisa/static/media/foto.08723f26.png",
     "static/media/logo.png": "/fundacionsonrisa/static/media/logo.5003985f.png",
     "static/media/markermap.png": "/fundacionsonrisa/static/media/markermap.2fb6054e.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.897e446e.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.1380c923.chunk.js",
+    "static/js/2.242571ed.chunk.js",
     "static/css/main.8f0590b2.chunk.css",
-    "static/js/main.6c430457.chunk.js"
+    "static/js/main.bd4bca70.chunk.js"
   ]
 }
