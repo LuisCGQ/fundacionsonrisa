@@ -27,6 +27,7 @@ class Navbar extends React.Component {
             >
               INICIO
             </Link>
+            <div className="navbar__menu-space"></div>
             <Link
               className="navbar__menu-link"
               to="/fundacionsonrisa/quienessomos"
@@ -34,6 +35,7 @@ class Navbar extends React.Component {
             >
               QUIÉNES SOMOS
             </Link>
+            <div className="navbar__menu-space"></div>
             <Link
               className="navbar__menu-link"
               to="/fundacionsonrisa/programas"
@@ -41,6 +43,7 @@ class Navbar extends React.Component {
             >
               PROGRAMAS
             </Link>
+            <div className="navbar__menu-space"></div>
             <Link
               className="navbar__menu-link"
               to="/fundacionsonrisa/contacto"

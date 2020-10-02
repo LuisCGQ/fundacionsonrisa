@@ -7,11 +7,13 @@ import Programas from "./pages/Programas";
 import Home from "./pages/Home";
 import Somos from "./pages/Somos";
 import Contacto from "./pages/Contacto";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <BrowserRouter>
       <Layout>
+        <ScrollToTop />
         <Switch>
           <Route
             exact
